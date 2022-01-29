@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ToHX
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Tobias
+- 👀 I’m interested in everything about Web Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 🇰🇷 :rice: Speaking Korean fluently and have been living there for some years
 
