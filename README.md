@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 🇰🇷 :rice: Speaking Korean fluently and have been living there for some years
 
+[![Linkeding Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style-flat-square&logo-Linkedin&logoColor-white)] (https://www.linkedin.com/in/herrmanntobias/)
+
 ![](https://komarev.com/ghpvc/?username=ToHX)
 
 <!---
