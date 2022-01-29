@@ -5,6 +5,25 @@
 - 📫 How to reach me ...
 - 🇰🇷 :rice: Speaking Korean fluently and have been living there for some years
 
+
+
+🔭 Recent projects
+
+<!-- mskelton.dev. I'm finally working on putting together my own personal website. Better late than never!
+Lariat. My company has adopted Playwright for end-to-end testing, and Lariat is an open source library I developed for them to reduce boilerplate when creating page objects.
+Yarn outdated plugin. I've been using this plugin for quite a while now, but recently updated it to support Yarn 3 with some neat features including lockfile aware outdated dependency checking. -->
+
+🌱 I’m currently learning
+
+<!-- Tensorflow. I'm starting to learn about machine learning with Tensorflow for a small side project I'm working on.
+Forex. I've begun exploring the world of foreign exchange, MetaTrader 4/5, expert advisors, and more.
+Ergonomics, starting with my purchase of the Moonlander keyboard from ZSA. Super excited to continue to learn more about ergonomics and maintaining a healthy body while doing the things I love to do. -->
+
+⚡ Fun facts
+
+<!-- The first programming language I learned was Python which I almost never use anymore. 🐍
+I dislike design and yet I maintain color themes for 2 IDEs and 2 websites. 🤷 -->
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style-flat-square&logo-Linkedin&logoColor-white)] (https://www.linkedin.com/in/herrmanntobias/)
 
 ![](https://komarev.com/ghpvc/?username=ToHX)
