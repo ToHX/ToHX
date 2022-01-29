@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 🇰🇷 :rice: Speaking Korean fluently and have been living there for some years
 
+<!-- Hi, I'm Mark 👋
+I'm a JavaScript engineer and lead developer working at Widen. While I'm not afraid of CSS, my true passion lies in JavaScript engineering and developer experience (DX). I love finding ways to simplify or improve development workflow to save time and make it more fun to work on applications. Wait, did I forget to mention how much I love TypeScript? -->
 
 
 🔭 Recent projects
