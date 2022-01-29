@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🇰🇷  Speaking Korean fluently and have been living there for some years
+- 🇰🇷 :rice: Speaking Korean fluently and have been living there for some years
 
 <!---
 ToHX/ToHX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
